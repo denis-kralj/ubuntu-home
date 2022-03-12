@@ -12,3 +12,7 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 # download and install oh my posh
 sudo wget https://github.com/JanDeDobbeleer/oh-my-posh/releases/latest/download/posh-linux-amd64 -O /usr/local/bin/oh-my-posh
 sudo chmod +x /usr/local/bin/oh-my-posh
+
+echo "Things that still need manual labor for now:"
+echo "Setup SSH and PGP keys for git commit signing and pushing"
+echo "Install VS code and set it up to work with WSL"

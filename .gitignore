@@ -1,0 +1,10 @@
+# ignore everything...
+*.*
+
+# ... except these
+!.gitignore
+!.ENV_SAMPLE
+!mytheme.json
+!start-mumble.sh
+!stop-mumble.sh
+!.zshrc

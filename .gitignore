@@ -9,3 +9,5 @@
 !start-mumble.sh
 !stop-mumble.sh
 !.zshrc
+!get-programs.sh
+!configure-programs.sh

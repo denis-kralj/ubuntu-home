@@ -1,10 +1,10 @@
 #!/bin/bash
 
-echo "Enter details for the [default] AWS profile"
-aws configure --profile default
-
 echo "Enter details for the [MumbleUser] AWS profile"
 aws configure --profile MumbleUser
+
+echo "Enter details for the [FoundryUser] AWS profile"
+aws configure --profile FoundryUser
 
 echo "Enter details for git"
 

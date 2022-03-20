@@ -27,3 +27,5 @@ alias c=clear
 alias edit-profile='code ~/.zshrc'
 alias stm='~/start-mumble.sh'
 alias spm='~/stop-mumble.sh'
+alias stf='~/start-foundry.sh'
+alias spf='~/stop-foundry.sh'

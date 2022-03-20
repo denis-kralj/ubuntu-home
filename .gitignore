@@ -8,6 +8,8 @@
 !mytheme.json
 !start-mumble.sh
 !stop-mumble.sh
+!start-foundry.sh
+!stop-foundry.sh
 !.zshrc
 !get-programs.sh
 !configure-programs.sh

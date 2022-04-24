@@ -16,8 +16,8 @@ plugins=(git aws)
 source $ZSH/oh-my-zsh.sh
 
 # env vars loaded from config
-if test -f ".ENV"; then
-    source .ENV
+if test -f "$HOME/.ENV"; then
+    source "$HOME/.ENV"
 else
     echo "WARNING: Configuration file .ENV not found, some scripts might not work..."
 fi

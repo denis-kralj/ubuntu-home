@@ -10,7 +10,7 @@ eval "$(oh-my-posh --init --shell zsh --config '~/mytheme.json')"
 zstyle ':omz:update' mode auto
 
 # plugins to use
-plugins=(git aws)
+plugins=(git aws terraform)
 
 # use the provided data to init oh-my-zsh
 source $ZSH/oh-my-zsh.sh
